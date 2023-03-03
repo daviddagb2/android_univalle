@@ -1,2 +1,2 @@
-# promokolbijulio22
-Repositorio con los datos de la promo Kolbi de Julio 2022 con dos juegos.
+# Android 2022 Univalle
+Repositorio con los proyectos de los estudianes de Desarrollo de aplicaciones movil con Android del año 2022.
